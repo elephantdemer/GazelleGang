@@ -1,0 +1,52 @@
+body {
+    margin: 0px;
+    background-color: black;
+}
+
+nav {
+    background-color: black;
+    font-family: 'Share Tech Mono', monospace;
+}
+
+.navbar-brand {
+    text-indent: 10px;
+}
+
+.navbar-link {
+    color: white;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: #00FFFF;
+}
+
+p {
+    color: white;
+    text-align: justify;
+}
+
+h1 {
+    color: magenta;
+    font-family: 'Share Tech Mono', monospace;
+}
+
+
+.presentation {
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.btn {
+    cursor: pointer;
+    outline: yellow solid 2px;
+    font-family: 'Share Tech Mono', monospace;
+    color: magenta;
+
+}
+
+.btn:hover {
+    cursor: pointer;
+    outline: magenta solid 2px;
+    font-family: 'Share Tech Mono', monospace;
+    color: yellow;
+}
